@@ -2,14 +2,9 @@
 
 _Main Directive: What Factors Influence Employee Attrition Rate at IBM?_
 
-* Using xxx software to do xxx thing, i created xx analysis on xxx data.
-* Utilizing these results, I presented key points and proposed potential measures for IBM to implement in order to lower IBM's employee attrition rate as a whole. <br />
-  
 # Exploring Attrition Rate and Factors
 
 ## 1. What is the Attrition Ratio?
-
-   FIND THE MISSING PIE CHART OF ATTRITION RATIO AND PUT IT HERE :)
 
 The employee attrition ratio is 16.1% at IBM.
 For the analysis, we are going to focus on environmental and company factors that could contribute to attribution.
@@ -55,8 +50,6 @@ The three graphs demonstrate a consistent trend that Laboratory Technician has a
 What is the relationship between overtime and attrition? 
 
   ![IBM-HR-Analytics-Employee-Attrition-and-Performance](images/overtime-attrition.png)
-    
-ADD COMMENT
 
 How does the amount of business travel affect attrition?
 
